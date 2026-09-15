@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """Calculate the shape of a NumPy array."""
 
-import numpy as np
-
 
 def np_shape(matrix):
     """Return the shape of a NumPy array as a tuple."""
