@@ -1,7 +1,17 @@
 # ALU Machine Learning
 
-This repository contains projects and exercises for the ALU Machine Learning curriculum.
+This repository contains projects, exercises, and implementations completed as part of the ALU Machine Learning curriculum.
 
-## math/linear_algebra
+## Contents
 
-Exercises covering linear algebra fundamentals used in machine learning, including matrix and vector operations implemented with NumPy and pure Python.
+- **math/linear_algebra** — Exercises covering linear algebra fundamentals used in machine learning, including vector and matrix operations implemented in Python.
+
+## Requirements
+
+- Python 3
+- Ubuntu 16.04 LTS
+- pycodestyle (for style validation)
+
+## Author
+
+Noella799
